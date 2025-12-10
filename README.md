@@ -37,7 +37,8 @@ No build process or dependencies required!
 .
 ├── index.html      # Main HTML file
 ├── styles.css      # CSS styles
-└── README.md       # This file
+├── README.md       # This file
+└── SETUP.md        # Setup instructions for GitHub Pages
 ```
 
 ## Technologies Used
